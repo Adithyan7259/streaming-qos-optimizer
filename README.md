@@ -1,3 +1,12 @@
+Adithyan R
+RA2211027010040
+
+
+
+
+
+
+
 # Streaming QoS Optimizer
 
 An intelligent Quality of Service (QoS) optimization system for live video game streaming platforms. This system uses machine learning and sentiment analysis to optimize streaming parameters in real-time, balancing technical performance with viewer satisfaction.
